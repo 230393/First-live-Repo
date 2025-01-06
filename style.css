@@ -1,0 +1,12 @@
+div{
+    background-color: bisque;
+    background-size: 15px;
+    background-position: center;
+}
+h1{
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    text-shadow: 5PX;
+    padding: 10px;
+    
+}
