@@ -1,6 +1,8 @@
 div{
     background-color: bisque;
-    background-size: 15px;
+    background-size: 300PX;
+    background-image: url('desktop.png');
+    background-repeat: no-repeat;
     background-position: center;
 }
 h1{
